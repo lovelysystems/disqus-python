@@ -1,8 +1,8 @@
 disqus-python
 ~~~~~~~~~~~~~
 
-.. image:: https://travis-ci.org/disqus/disqus-python.svg?branch=master
-    :target: https://travis-ci.org/disqus/disqus-python
+.. image:: https://travis-ci.org/lovelysystems/disqus-python.svg?branch=master
+    :target: https://travis-ci.org/lovelysystems/disqus-python
 
 Let's start with installing the API:
 
